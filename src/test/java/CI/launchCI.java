@@ -8,8 +8,8 @@ import org.testng.annotations.Test;
 public class launchCI {
   @Test
   public void travisTesting() {
-	    //System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
-		WebDriver driver = new FirefoxDriver();
+	    System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
 		
 		driver.get("http://qa1.homesofa.de/");
 		driver.manage().window().maximize();
