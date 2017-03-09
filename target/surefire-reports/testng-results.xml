@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="8642" started-at="2017-03-09T10:58:30Z" finished-at="2017-03-09T10:58:39Z">
+  <suite name="Suite1" duration-ms="13671" started-at="2017-03-09T12:12:37Z" finished-at="2017-03-09T12:12:50Z">
     <groups>
     </groups>
-    <test name="Travis CI" duration-ms="8642" started-at="2017-03-09T10:58:30Z" finished-at="2017-03-09T10:58:39Z">
+    <test name="Travis CI" duration-ms="13671" started-at="2017-03-09T12:12:37Z" finished-at="2017-03-09T12:12:50Z">
       <class name="CI.launchCI">
-        <test-method status="PASS" signature="travisTesting()[pri:0, instance:CI.launchCI@11bbad83]" name="travisTesting" duration-ms="8631" started-at="2017-03-09T16:28:30Z" finished-at="2017-03-09T16:28:39Z">
+        <test-method status="PASS" signature="travisTesting()[pri:0, instance:CI.launchCI@387c7c8d]" name="travisTesting" duration-ms="13668" started-at="2017-03-09T17:42:37Z" finished-at="2017-03-09T17:42:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- travisTesting -->
