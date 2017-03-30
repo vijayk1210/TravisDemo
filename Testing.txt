@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-GITHUb for CI 17
-=======
-GITHUb for CI 16
->>>>>>> 916cd648f33b4e28b8b090d8edbd25e2c2d9b265
-=======
-GITHUb for CI 16
->>>>>>> 916cd648f33b4e28b8b090d8edbd25e2c2d9b265
+Git hook 18
